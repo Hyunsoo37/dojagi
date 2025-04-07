@@ -63,3 +63,13 @@ header h1 {
     color: #5c3d2e;
     font-size: 16px;
 }
+
+.buy-button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #da9f57;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
